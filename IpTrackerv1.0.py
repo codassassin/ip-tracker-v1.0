@@ -52,7 +52,7 @@ def ipLocation(ipTrack):
     b = str(bColors.BLUE)
     y = str(bColors.YELLOW)
 
-    print(r + '* ' + b + 'ip: ' + g + ip + r + '\n* ' + b + 'city: ' + g + city + r + '\n* ' + b + 'continent: ' + g +
+    print(r + '* ' + b + 'public_ip: ' + g + ip + r + '\n* ' + b + 'city: ' + g + city + r + '\n* ' + b + 'continent: ' + g +
           continent + r + '\n* ' + b + 'country: ' + g + country + r + '\n* ' + b + 'location: ' + r + '\n\t↪ ' + y +
           'accuracy_radius: ' + g + str(locationAccuracy) + r + '\n\t↪ ' + y + 'latitude: ' + g + str(locationLatitude)
           + r + '\n\t↪ ' + y + 'longitude: ' + g + str(locationLongitude) + r + '\n\t↪ ' + y + 'time_zone: ' + g +
@@ -63,7 +63,7 @@ def ipLocation(ipTrack):
 
 
 ip = requests.get('https://api.ipify.org').text
-print("\npublic_ip: " + ip)
 
 banner()
 ipLocation(ip)
+
