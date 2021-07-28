@@ -12,4 +12,4 @@ $ python IpTrackerv1.0.py
 ```
 
 ## Result Image
-![result](https://user-images.githubusercontent.com/55107082/127355238-7788f5bb-06f2-4a37-b8dd-e730913fa343.png)
+<!-- ![result](https://user-images.githubusercontent.com/55107082/127355238-7788f5bb-06f2-4a37-b8dd-e730913fa343.png) -->
