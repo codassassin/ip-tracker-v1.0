@@ -4,11 +4,11 @@ This is a ip tracker that can trace back the location of the machine that execut
 ## How to use?
 * First:
 ```
-$ git clone https://github.com/codassassin/ip-tracker-v1.0.git
+git clone https://github.com/codassassin/ip-tracker-v1.0.git
 ```
 * Run the IpTrackerv1.0.py file:
 ```
-$ python IpTrackerv1.0.py
+python IpTrackerv1.0.py
 ```
 
 ## Result Image
