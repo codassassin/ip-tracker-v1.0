@@ -1,6 +1,8 @@
 # ip-tracker-v1.0
 This is a ip tracker that can trace back the location of the machine that executes it.
 
+### latest version available at https://github.com/codassassin/ip-tracker-v2.0
+
 ## How to use?
 * First:
 ```
